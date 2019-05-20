@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552662677 source:e:\reverse word\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552851654 source:e:\primefactors\main.cpp
+	<iostream>
+	<stdio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552910516 source:e:\bookallocation\main.cpp
+	<iostream>
+	<stdio.h>
+
